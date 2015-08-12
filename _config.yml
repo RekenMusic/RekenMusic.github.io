@@ -15,50 +15,21 @@ highlighter: pygments
 
 
 ### content configuration ###
-title: 北京瑞肯国际文化传媒有限公司
-keywords: 瑞肯, 唱片公司, 艺人, 音乐，制作人，唱片制作，歌曲，EP，企业歌曲
-description: 北京瑞肯国际文化传媒有限公司官方网站
-#source_link:
-#favicon:
-#touch_icon:
-#google_analytics_key:
+title:       "北京瑞肯国际文化传媒有限公司"
+keywords:    "唱片，瑞肯，文化传媒，吉他，钢琴，作曲课，单曲制作，企业歌曲，制作人，狂喜文化，杨大伟录音工作室"
+description: "北京瑞肯国际文化传媒有限公司官方网站"
+source_link: "https://www.Reken.com.cn"
+favicon:     "img/favicon.ico"
+touch_icon:  "img/logo.png"
+google_analytics_key: UA-49607422-1 ## put YOUR key here to enable tracking! (blank to disable)
 
 
 ### template colors, used site-wide via css ###
 colors:
-  black:
-    light: '#303030'
-    dark: '#111111'
-  white:
-    light: '#f5f5f5'
-    dark: '#f8f8f8'
-  blue:
-    light: '#3c9eec'
-    dark: '#49a7e9'
-  green:
-    light: '#a3d832'
-    dark: '#9bcf2f'
-  purple:
-    light: '#c869bf'
-    dark: '#c869bf'
-  orange:
-    light: '#faaf22'
-    dark: '#fab125'
-  turquoise:
-    light: '#0fbfcf'
-    dark: '#0fbfcf'
-  color1:
-    light: '#E3E1D3'
-    dark: '#DCBB7D'
-  color2:
-    light: '#B65558'
-    dark: '#8F4244'
-  color3:
-    light: '#828BA1'
-    dark: '#595F6D'
-  color4:
-    light: '#C8BFCA'
-    dark: '#9A8A98'
-  color5:
-    light: '#A1A1A1'
-    dark: '#757575'
+  black:     '#111111'
+  white:     '#f8f8f8'
+  blue:      '#69A3B9'
+  green:     '#9bcf2f'
+  purple:    '#c869bf'
+  orange:    '#fab125'
+  turquoise: '#0fbfcf'
